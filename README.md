@@ -1,25 +1,11 @@
 # Remodel the Datacenter F5 Channel Enablement Series
 
-
-The sections below are recommended in your project's README.md file. 
-
 ## Overview
-Provide a short overview of the project.
+The Remodel the Datacenter (RtDC) event is a three-month series of webinars and challenges for Channel technical folks (SEs, consultants, etc.). During the event there will be four "Checkpoint" calls, with associated challenges that provide an opportunity to earn points- prizes await for the score leaders at the end! THe final meeting will be a Tech Fair where we'll discuss what we've learned and announce winners.
 
 ## Getting Started
-Provide a quick example of how to use your code.  This should provide the user with a launch point to quickly see what the project can offer them. 
+To participate, join the Checkpoint calls and complete challenges. To sign up to be included in the webinar series, click [Here](www.)
 
-## Installation
-Outline the requirements and steps to install this project. 
-
-## Usage
-Outline how the user can use your project and the various features the project offers. 
-
-## Development
-Outline any requirements to setup a development environment if someone would like to contribute.  You may also link to another file for this information. 
-
-## Support
-For support, please open a GitHub issue.  Note, the code in this repository is community supported and is not supported by F5 Networks.  For a complete list of supported projects please reference [SUPPORT.md](SUPPORT.md).
 
 ## Community Code of Conduct
 Please refer to the [F5 DevCentral Community Code of Conduct](code_of_conduct.md).
