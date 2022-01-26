@@ -1,5 +1,4 @@
-# Solutions Engineering Template Repository
-A template repository that contains all required files (LICENSE, SUPPORT, CONTRIBUTING, etc) as outlined in the org standards.  
+# Remodel the Datacenter F5 Channel Enablement Series
 
 
 The sections below are recommended in your project's README.md file. 
