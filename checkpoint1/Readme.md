@@ -10,7 +10,7 @@
 
 ## Challenge
 
-Download F5 SE All Stars [SE_All_Stars22.pdf] and answer the following question. 
+Download F5 SE All Stars [SE_All_Stars22.pdf](SE_All_Stars22.pdf) and answer the following question. 
 
 `Question – What would a customer/prospect need to do for you to get $500?` 
 
