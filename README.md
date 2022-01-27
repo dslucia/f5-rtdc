@@ -4,7 +4,7 @@
 The Remodel the Datacenter (RtDC) event is a three-month series of webinars and challenges for Channel technical folks (SEs, consultants, etc.). During the event there will be four "Checkpoint" calls, with associated challenges that provide an opportunity to earn points- prizes await for the score leaders at the end! THe final meeting will be a Tech Fair where we'll discuss what we've learned and announce winners.
 
 ## Getting Started
-To participate, join the Checkpoint calls and complete challenges. To sign up to be included in the webinar series, click [Here](www.)
+To participate, join the Checkpoint calls and complete challenges. To sign up to be included in the webinar series, click [Here](https://f5networks.zoom.us/meeting/register/tJ0odeuhqzovEtEnYJHieSDq7u2IyTWapOXR))
 
 
 ## Community Code of Conduct
