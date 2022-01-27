@@ -1,11 +1,12 @@
 # Checkpoint 1 Challenge
 
 ## Recording
-
+[Link to 2022.01.27 kickoff call](https://f5networks.zoom.us/rec/share/2w3zVF4F_CE6vcTIcsFPGxhg4iawV1H_xWj0hnzUo8acVywshQWqmCANJBzShzFg.kCzvphqzo7r14MAT)
+`!4yLPp9J`
 
 
 ## Presentation
-
+[Kickoff.pdf](kickoff.pdf)
 
 
 ## Challenge
