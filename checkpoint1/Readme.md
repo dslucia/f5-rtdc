@@ -10,13 +10,13 @@
 
 ## Challenge
 
-Download F5 SE All Stars [SE_All_Stars2.pdf](https://github.com/F5ChannelSE/stc/files/6865684/SE_All_Stars2.pdf) and answer the following question. 
+Download F5 SE All Stars [SE_All_Stars22.pdf] and answer the following question. 
 
-Question – How much money do you earn for demoing a PIO registered AWAF, NGINX or Shape meeting as a “Starter”?
+Question – What would a customer/prospect need to do for you to get $500? 
 
 Email d.lucia@f5.com and l.levinski@f5.com with your answer.
 
 ## Bonus Challenge
-Register for F5's user conference: [Agility 2022](www.linktoagility.com) 
+Register for F5's user conference: [Agility 2022](https://f5networks.zoom.us/meeting/register/tJ0odeuhqzovEtEnYJHieSDq7u2IyTWapOXR) 
 
 Forward confirmation email to d.lucia@f5.com and l.levinski@f5.com when it arrives.
