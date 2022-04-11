@@ -11,4 +11,4 @@
 
 
 ## Challenge
-Reach out to Dom to schedule a 20m sync on what's going on with your customers.
+Reach out to Dom to schedule a 20m sync on what's going on with your customers!
